@@ -1,0 +1,21 @@
+Peer Tester: Vargas Ramirez, Irving
+
+I really liked the background that you gave for each of your levels. The sound implementation is also very good. The game as a whole is good and is almost complete , the only thing that is needed for its improvement is to fix the lag in between each shot that the ship does and create enemies for level 2 , other than that I really like your program.
+
+Response:
+
+I removed the for loop that caused the lag. I am still working on spawning the enemies for level 2. Sometimes they appear, sometimes they don't. I think I will look at the array that draws them. 
+
+
+2nd Tester: David Tran
+
+The game is quite smooth. However, the number of enemies on level 2 is not consistent each time. Sound implementation is fine. Also, the final boss is too weak. I think that the final boss should be able to sustain more damage than normal enemies. Also sometimes, the ship explodes for no reason. 
+
+Response:
+
+I made the final boss stronger. I still need to fix the number of enemies on level 2. Perhaps it is the array that is causing this problem. For explosion bug I plan to look at the collision variables and fix them. 
+
+
+2 CHALLENGES COMPLETED:
+1. multiple projectiles
+2. final boss (stronger than normal enemies)
